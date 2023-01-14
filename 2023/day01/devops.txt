@@ -6,3 +6,9 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+ - What is DevOps
+ DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working.
+ - What is Automation, Scaling, Infrastructure
+ Automation describes a wide range of technologies that reduce human intervention in processes, namely by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines.
+ - Why DevOps is Important, etc
+ DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
